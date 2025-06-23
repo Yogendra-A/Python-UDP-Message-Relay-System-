@@ -27,26 +27,19 @@ Python_UDP_Message_Relay/
 ## 📸 Screenshots
 
 ### ✅ Receiver GUI
-<br>
-<br>
-![receiver](https://github.com/user-attachments/assets/24d85227-3c10-443c-a745-806eec76f56e)<br><br>
-<br>
-<br>
+
+![receiver](https://github.com/user-attachments/assets/24d85227-3c10-443c-a745-806eec76f56e)<br>
+
 ### ✅ Terminal Outputs
-<br>
-<br>
+
 * **Client sending a message**
-<br> 
-<br>
+
 ![client](https://github.com/user-attachments/assets/9048063c-95cd-43bd-a703-45caf7f2f3e5)
-<br>
-<br>
+
 
 * **Server forwarding the message**
-<br>
-<br>
+
 ![server](https://github.com/user-attachments/assets/95aba215-3c27-4d26-9381-d0ede25574dd)
-<br>
 
 
 ## ⚙️ How to Run
